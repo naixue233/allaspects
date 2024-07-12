@@ -90,4 +90,6 @@ DNS屏蔽检测：https://github.com/meganukebmp/Switch_90DNS_tester
 
 游戏时长记录：https://github.com/zdm65477730/NX-Activity-Log
 
+系统超频: https://github.com/retronx-team/sys-clk
+
 I hope all Switch players enjoy their work. They are really very good,although some of them have stopped developing Switch,they still stick to their original intentions and helping others to make better ones. On behalf of all Switch players, I would like to express my gratitude to them!
